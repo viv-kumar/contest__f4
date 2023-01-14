@@ -1,0 +1,22 @@
+#counter{
+    padding: 20px;
+}
+hr{
+    display: inline-block;
+    width: 11%;
+    /* padding-top: px */
+    /* border: 2px solid red; */
+    /* margin-top: -92px; */
+
+}
+#btn1{
+    margin-right: 12px;
+
+}
+button{
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: white;
+    display: inline;
+}
